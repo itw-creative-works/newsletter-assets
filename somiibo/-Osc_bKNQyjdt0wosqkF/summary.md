@@ -1,0 +1,1 @@
+Short-form still matters, but more teams are treating it as the top of the funnel rather than the whole strategy. The bigger opportunity now is using social to build longer, more durable formats that create stronger audience retention, better creative control, and less dependence on trend-chasing.
