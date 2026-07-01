@@ -4,8 +4,8 @@
 
 **Public archive of AI-generated newsletters across the ITW Creative Works portfolio.**
 
-[![Brands](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fitw-creative-works%2Fnewsletter-assets%2Fbranches%3Fper_page%3D100&query=%24.length&label=brands&style=for-the-badge&color=blue&suffix=%20branches)](https://github.com/itw-creative-works/newsletter-assets/branches/all)
-[![Viewer](https://img.shields.io/badge/preview-viewer-green?style=for-the-badge)](https://itw-creative-works.github.io/newsletter-assets/)
+[![Brands](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fitw-creative-works%2Fnewsletter-assets%2Fbranches%3Fper_page%3D100&query=%24.length&style=for-the-badge&label=%20&suffix=%20brands&color=blue&logo=git-extensions&logoColor=white)](https://github.com/itw-creative-works/newsletter-assets/branches/all)
+[![Preview](https://img.shields.io/badge/%20-preview-green?style=for-the-badge&logo=eye&logoColor=white)](https://itw-creative-works.github.io/newsletter-assets/)
 
 ---
 
