@@ -1,0 +1,1 @@
+AI tools are spreading into more countries, more routines, and more types of work. At the same time, students and creators are getting smarter about keeping their own context portable so they are not locked into one app. The bigger lesson: the best AI workflows are the ones you can trust, move, and keep using when plans change.
