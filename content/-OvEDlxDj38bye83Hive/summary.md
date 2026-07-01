@@ -1,0 +1,1 @@
+AI agents are looking less like a single model in a box and more like a stack of runtime, tools, context, and retrieval. The practical advantage is shifting toward systems that can route work, keep domain knowledge fresh, and use the right memory at the right time. That means the winners will be the teams that build good loops, not just better prompts.

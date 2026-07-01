@@ -1,0 +1,1 @@
+This issue is about reducing repetitive work without adding process bloat. We look at how better workflows, smarter review loops, and the right model size can save time, plus a simple reminder that live sessions and multi-device setups only work if the basics are solid.

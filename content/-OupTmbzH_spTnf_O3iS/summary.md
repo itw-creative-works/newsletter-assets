@@ -1,0 +1,1 @@
+This week is about AI systems getting more practical, not just more powerful. The big themes are infrastructure scaling, better routing to control token spend, and assistants that can do more only when they have enough context. For teams, the takeaway is simple: the win is not adding more tools, it is tightening the workflow around them.

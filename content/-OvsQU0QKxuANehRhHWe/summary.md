@@ -1,0 +1,1 @@
+The biggest productivity gains from AI are shifting from the model itself to the system around it. This issue looks at how teams are building better search, tighter agent loops, and cross-repo context so their tools can do useful work without constant handholding.

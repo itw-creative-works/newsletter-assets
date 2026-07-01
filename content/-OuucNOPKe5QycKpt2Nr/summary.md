@@ -1,0 +1,1 @@
+This issue is about scale and access. On one side, AI infrastructure is getting bigger and cheaper to run; on the other, attackers keep finding simple ways in through stored passwords and exposed credentials. The practical takeaway is the same for teams of any size: build systems that scale, but keep your account hygiene boring and strict.

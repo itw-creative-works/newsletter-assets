@@ -1,0 +1,1 @@
+Most productivity gains still come from two plain things: the story you tell yourself and where you put your attention. This issue also looks at how agentic tools are changing the balance between planning and execution, why team AI workflows need testing, and how small cross-device systems keep repeat work from eating your day.

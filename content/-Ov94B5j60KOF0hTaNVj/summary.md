@@ -1,0 +1,1 @@
+This issue is about making everyday work less repetitive without adding more tools to manage. We look at where lightweight assistants fit inside familiar channels, why teams are getting stricter about code changes, and how simple snippet systems can quietly remove the same busywork from your day.

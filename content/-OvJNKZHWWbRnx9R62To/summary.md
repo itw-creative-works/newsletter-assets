@@ -1,0 +1,1 @@
+This issue is about a simple pattern taking over modern software teams: release useful features in smaller steps, then stabilize them fast. The same thinking is showing up in AI agents, code review, and everyday productivity workflows. If you build with text, tasks, and templates, this is the kind of shift that can save a lot of rework.

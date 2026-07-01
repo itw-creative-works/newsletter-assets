@@ -1,0 +1,1 @@
+This week is about making your work easier to resume, reuse, and trust. The common thread is context: organizing information by what it is for, keeping reusable snippets portable, and resisting the urge to add structure before it earns its place.

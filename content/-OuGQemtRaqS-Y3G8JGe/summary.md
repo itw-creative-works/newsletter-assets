@@ -1,0 +1,1 @@
+This week’s thread is about the parts of AI work that are getting less flashy but more useful. New model previews are arriving, coding agents are getting sharper, and the real battleground is shifting toward harnesses, mobile control, and better ways to trim context without breaking code or conversations.

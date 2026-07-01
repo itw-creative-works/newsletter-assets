@@ -1,0 +1,1 @@
+Agent tooling is getting more structured, more modular, and more tied to the rest of the software stack. The big theme this week is simple: teams want agents that can be versioned, delegated, secured, and deployed like real products, not side projects.

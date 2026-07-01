@@ -1,0 +1,1 @@
+This week is about making your information easier to reuse. The common thread across notes, code, and AI workflows is simple: store context in a way that answers what something is for, not just what it is. That same habit makes snippets, templates, and agent workflows faster to trust and easier to carry between tools.
