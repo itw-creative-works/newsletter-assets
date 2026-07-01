@@ -1,0 +1,1 @@
+Instagram is testing new ways to guide what people see and how creators post, while Facebook keeps folding AI into its ad and creator tools. For marketers, the bigger lesson is simple: clearer goals, cleaner calls to action, and easier workflows still win. We also pulled a few useful takeaways from festival season on what makes partnerships and activations actually work.
