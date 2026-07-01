@@ -1,0 +1,2 @@
+# Treat PNGs as binary so diffs don't try to render them as text
+*.png binary

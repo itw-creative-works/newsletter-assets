@@ -1,0 +1,27 @@
+# Belt-and-suspenders. The upload module only accepts PNGs by allowlist,
+# but if anyone ever does a manual `git add .` from a working copy these
+# patterns block the obvious mistakes.
+
+# Credentials and secrets
+.env
+.env.*
+*.key
+*.pem
+service-account*.json
+credentials*.json
+
+# Local-only debug artifacts
+*.log
+.DS_Store
+.temp/
+tmp/
+
+# Source illustrations (SVGs and metadata stay local, only PNGs go public)
+*.svg
+metadata.json
+structure.json
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
