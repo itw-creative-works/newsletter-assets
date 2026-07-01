@@ -1,0 +1,1 @@
+This issue is about trimming the waste that creeps into everyday AI work. From token-heavy prompts to fragile context and overcomplicated workflows, the common theme is simple: the best setup is the one you can repeat, port, and measure. Small discipline now can save real time and money later.
