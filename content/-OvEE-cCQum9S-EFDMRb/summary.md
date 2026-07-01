@@ -1,0 +1,1 @@
+AI tooling is moving away from one-shot prompts and toward repeatable workflows that can actually finish tasks. The practical win for small teams is not bigger model drama, but better loops, cheaper specialized tools, and fewer handoffs in support and ops.

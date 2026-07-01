@@ -1,0 +1,1 @@
+AI is moving from novelty to a sales and support layer, but the real constraint is trust. Enterprise teams need protected time and leadership support to use AI well, while customer behavior is already shifting toward AI-influenced shopping. The common thread: faster output is easy, but useful output still depends on review, focus, and judgment.

@@ -1,0 +1,1 @@
+Most teams do not have an AI problem, they have a workflow problem. The wins show up when you sequence the work correctly, keep context portable, and measure whether people trust the output enough to use it. The useful version of AI is less magic trick, more operating system.

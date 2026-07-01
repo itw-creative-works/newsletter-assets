@@ -1,0 +1,1 @@
+AI tools are getting more capable, but the real bottleneck is still context and control. Teams are also using AI in more places, from long-running desktop workflows to creative tools that execute across apps. Underneath it all is the same trend: people want software that feels personal, low-friction, and reliable enough to trust.

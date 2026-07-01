@@ -1,0 +1,1 @@
+Search is becoming less about clicks and more about being the answer people see first. That shift matters for support and marketing teams because customers may form an opinion about your brand without ever landing on your site. The practical move is to tighten your source-of-truth content, response templates, and trust signals so AI systems have something useful to pull from.

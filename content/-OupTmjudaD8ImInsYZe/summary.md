@@ -1,0 +1,1 @@
+Most AI agent projects look fine in a demo and then get messy in production. The pattern across enterprise deployments, product rollouts, and social teams is the same: the winners build systems for onboarding, routing, and measurement, not just flashy outputs.

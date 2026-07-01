@@ -1,0 +1,1 @@
+Claude is showing up where teams already work, which is the only useful way to do AI in an office. The practical angle is not magic answers, but faster document handling, cleaner presentations, and fewer manual steps between a file landing in your inbox and a polished response going out.
