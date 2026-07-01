@@ -46,7 +46,7 @@
         .then(function(html) {
           app.innerHTML = '';
           var iframe = document.createElement('iframe');
-          iframe.sandbox = 'allow-same-origin';
+          iframe.sandbox = 'allow-same-origin allow-popups allow-popups-to-escape-sandbox';
           app.appendChild(iframe);
           iframe.contentDocument.open();
           iframe.contentDocument.write(html);
