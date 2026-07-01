@@ -1,0 +1,1 @@
+This issue is about control. AI assistants are moving into everyday interfaces like Messages, even as leaders in the field call for a slowdown on the riskiest frontier work. Underneath it all, the web stack still works by carefully routing, filtering, and shaping each request before it reaches the database.

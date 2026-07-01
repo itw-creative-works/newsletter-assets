@@ -1,0 +1,1 @@
+A fast page is rarely fast because of one breakthrough. It is fast because many layers, from DNS to the database, absorb traffic, make trade-offs, and keep the request moving. That same layered thinking applies whether you are tuning a web app, compressing LLM context, or deciding where security controls actually belong.

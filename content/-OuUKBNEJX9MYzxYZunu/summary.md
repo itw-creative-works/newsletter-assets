@@ -1,0 +1,1 @@
+VC-backed open source is looking less like a startup category and more like a consolidation story. The clearest path to sustainability is narrowing to either hosting revenue or acquisition by a larger platform, which changes what gets built and who gets to steer it.

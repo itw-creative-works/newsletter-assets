@@ -1,0 +1,1 @@
+This issue looks at three signals from the AI stack: agents are moving into everyday messaging, code review is becoming more transparent, and the push for a development pause is getting louder. The common thread is control, whether that means gating actions, reviewing machine output, or deciding where the line should be drawn at all.
