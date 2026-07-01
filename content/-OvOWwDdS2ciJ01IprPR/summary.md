@@ -1,0 +1,1 @@
+AI infrastructure is scaling quickly, but the harder problem is not compute. It is telling legitimate agents apart from malicious automation, keeping production systems observable, and patching exposed services before they become easy targets. The teams that win here will treat identity, routing, and reliability as one stack, not separate concerns.

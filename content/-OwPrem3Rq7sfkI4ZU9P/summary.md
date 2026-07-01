@@ -1,0 +1,1 @@
+This week’s thread running through AI tooling is control. Users want their work preserved, their context portable, and their systems able to switch models without rebuilding everything from scratch. The practical takeaway: treat transcripts, prompts, and routing as infrastructure, not convenience features.

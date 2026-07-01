@@ -1,0 +1,1 @@
+Agent frameworks are moving toward a file-based model that makes behavior, tools, schedules, and delegation easier to reason about. At the same time, model vendors are pushing longer context windows, faster coding workflows, richer artifacts, and more centralized enterprise access controls. The common thread is less glue code, more operational structure.

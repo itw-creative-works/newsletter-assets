@@ -1,0 +1,1 @@
+This week’s theme is control. Frontier models are getting more capable, but vendors are wrapping them in guardrails, routing rules, and specialized infrastructure that change how developers can use them in practice. At the same time, agent tooling is shifting from demoware to production plumbing, which means security, cost, and persistence matter more than raw benchmark wins.

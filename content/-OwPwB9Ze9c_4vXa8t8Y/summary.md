@@ -1,0 +1,1 @@
+AI workflows get brittle when all your preferences, project history, and prompt patterns live inside one app. The fix is to keep that context portable in simple files so you can switch models, recover from outages, and keep shipping without rebuilding your setup from scratch. This issue breaks down a practical way to make your AI work less dependent on any single vendor.

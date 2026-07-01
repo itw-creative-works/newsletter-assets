@@ -1,0 +1,1 @@
+AI-native engineering is moving from demos to discipline. Teams that win will treat models like production systems, with better specs, tighter retrieval checks, and stricter security guardrails. At the same time, the major model vendors are pushing deeper into enterprise workflows, which makes governance and infrastructure choices more important, not less.

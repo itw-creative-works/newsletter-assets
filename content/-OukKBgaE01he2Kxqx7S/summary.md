@@ -1,0 +1,1 @@
+AI infrastructure is getting bigger, but production discipline still matters more than raw scale. The smartest teams are pairing massive capacity builds with tighter token routing, better context layers, and stricter code-quality benchmarks so they can control cost and trust the output.
