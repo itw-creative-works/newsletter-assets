@@ -4,8 +4,7 @@
 
 **Public archive of AI-generated newsletters across the ITW Creative Works portfolio.**
 
-[![Brands](https://img.shields.io/badge/brands-11-blue?style=for-the-badge)](https://github.com/itw-creative-works/newsletter-assets/branches/all)
-[![Issues](https://img.shields.io/badge/newsletters-151+-purple?style=for-the-badge)](#brands)
+[![Brands](https://img.shields.io/badge/browse-all_brands-blue?style=for-the-badge)](https://github.com/itw-creative-works/newsletter-assets/branches/all)
 [![Viewer](https://img.shields.io/badge/preview-viewer-green?style=for-the-badge)](https://itw-creative-works.github.io/newsletter-assets/)
 
 ---
@@ -56,19 +55,7 @@ chatsy (branch)               Chatsy's newsletters
 
 ## Brands
 
-| Brand | Branch | Issues |
-|-------|--------|--------|
-| [Somiibo](https://somiibo.com) | [`somiibo`](https://github.com/itw-creative-works/newsletter-assets/tree/somiibo) | 40 |
-| [Sniips](https://sniips.com) | [`sniips`](https://github.com/itw-creative-works/newsletter-assets/tree/sniips) | 16 |
-| [Optiic](https://optiic.dev) | [`optiic`](https://github.com/itw-creative-works/newsletter-assets/tree/optiic) | 15 |
-| [DashQR](https://dashqr.com) | [`dashqr`](https://github.com/itw-creative-works/newsletter-assets/tree/dashqr) | 15 |
-| [Replyify](https://replyify.com) | [`replyify`](https://github.com/itw-creative-works/newsletter-assets/tree/replyify) | 14 |
-| [Chatsy](https://chatsy.ai) | [`chatsy`](https://github.com/itw-creative-works/newsletter-assets/tree/chatsy) | 12 |
-| [Slapform](https://slapform.com) | [`slapform`](https://github.com/itw-creative-works/newsletter-assets/tree/slapform) | 12 |
-| [Proxifly](https://proxifly.com) | [`proxifly`](https://github.com/itw-creative-works/newsletter-assets/tree/proxifly) | 11 |
-| [StudyMonkey](https://studymonkey.ai) | [`studymonkey`](https://github.com/itw-creative-works/newsletter-assets/tree/studymonkey) | 10 |
-| [Ultimate Jekyll](https://ultimatejekyll.com) | [`ultimate-jekyll`](https://github.com/itw-creative-works/newsletter-assets/tree/ultimate-jekyll) | 5 |
-| [Ghostii](https://ghostii.com) | [`ghostii`](https://github.com/itw-creative-works/newsletter-assets/tree/ghostii) | 1 |
+Each branch = one brand. **[Browse all brands](https://github.com/itw-creative-works/newsletter-assets/branches/all)** — new brands are created automatically on first newsletter upload.
 
 ## Preview a Newsletter
 
