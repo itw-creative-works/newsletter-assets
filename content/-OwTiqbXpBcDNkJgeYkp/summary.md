@@ -1,0 +1,1 @@
+After 500 issues, the same themes keep winning: web platform work, React, AI agents, and TypeScript tooling. The bigger shift is less about flashy demos and more about systems that let developers orchestrate work, route around constraints, and keep shipping when the stack gets messy.
