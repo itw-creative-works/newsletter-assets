@@ -1,0 +1,1 @@
+This week is about systems that remember, stories that hold attention, and hires that actually buy back time. The common thread: better output comes from better inputs, whether that is cleaner AI memory, tighter short-form structure, or a more disciplined way to delegate.
