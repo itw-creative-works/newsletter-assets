@@ -1,0 +1,1 @@
+Fresh content is still the bottleneck for retail marketers, but creator gifting can do more than fill one campaign. The smarter move is to treat UGC as a reusable asset that can power paid ads, product pages, ecommerce, and organic social at the same time.
