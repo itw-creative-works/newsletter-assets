@@ -1,0 +1,1 @@
+Apple is still winning on the strength of the iPhone, even as its AI ambitions get more practical and less flashy. At the same time, new image-model releases show how fast creative AI is maturing, while a different kind of drift is happening inside teams: people optimizing for output and losing sight of why they started.

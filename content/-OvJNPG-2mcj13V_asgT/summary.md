@@ -1,0 +1,1 @@
+Enterprise AI is moving past flashy demos and into operational reality. The big lesson: agents only create value when they are easy to deploy, govern, and tie to real workflows, while consumer AI adoption keeps happening on top of the devices people already use. For SMBs, that means focusing on practical support automation over AI theater.

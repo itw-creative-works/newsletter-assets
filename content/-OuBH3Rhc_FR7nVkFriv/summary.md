@@ -1,0 +1,1 @@
+Teams are getting faster at shipping code, but many are still struggling to turn that speed into products customers actually understand and use. The bigger unlock is not more output, but better feedback loops, sharper narratives, and stronger context before work starts.
