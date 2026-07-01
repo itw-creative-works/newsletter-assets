@@ -1,0 +1,1 @@
+The strongest AI systems are starting to look less like one big model and more like a carefully assembled pipeline. The winning pattern is clear: retrieval, domain context, ranking, and orchestration do more to shape outcomes than raw model size alone. For teams building OCR and document workflows, that is a useful reminder that the surrounding system is often the product.

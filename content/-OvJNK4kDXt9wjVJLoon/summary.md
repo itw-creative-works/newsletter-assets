@@ -1,0 +1,1 @@
+Open-weight releases have turned model development into a more public, iterative process. Teams can now study a strong release, borrow the useful parts, and push the architecture forward faster than ever. That speed helps the field, but it also makes model access, governance, and operational discipline harder to separate from the tech itself.

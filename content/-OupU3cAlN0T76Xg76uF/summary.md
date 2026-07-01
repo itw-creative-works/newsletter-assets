@@ -1,0 +1,1 @@
+AI coding tools are fast enough to create a new bottleneck: review, routing, and quality control. The teams that keep up are redesigning benchmarks for maintainability, adding smarter model routing to control spend, and treating the harness as part of the product. The lesson is simple: once the model can draft code, the real work shifts to making sure the draft is worth merging.

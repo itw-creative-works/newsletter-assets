@@ -1,0 +1,1 @@
+AI products are becoming less monolithic and more swappable, while the infrastructure around them is getting smarter about context. At the same time, cloud storage, observability, and deployment tools are adding metadata and controls that make automation easier to trust and debug.

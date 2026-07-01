@@ -1,0 +1,1 @@
+The theme this week is control: over what users see, when code reaches production, and how much cognitive load AI adds to the job. Teams are moving toward preloaded routes, progressive delivery, and knowledge systems that can keep up with agents. The hard part is not speed, but making speed predictable.

@@ -1,0 +1,1 @@
+AI coding workflows are becoming more agentic, more integrated, and easier to deploy, but the hard part has shifted from generating code to verifying it. At the same time, recent security research shows how small platform bugs can turn into serious credential risks, which makes trustworthy tooling and reproducible checks matter more than ever.

@@ -1,0 +1,1 @@
+AI assistant usage is becoming more fluid. The biggest player is still dominant, but users are now switching more easily between tools based on the task at hand. For builders, that means integrations, reliability, and workflow fit matter more than brand gravity alone.
