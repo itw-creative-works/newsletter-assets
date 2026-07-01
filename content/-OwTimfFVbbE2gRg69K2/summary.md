@@ -1,0 +1,1 @@
+Brands are getting more value from UGC when they treat it like a reusable asset, not a one-off post. The winning move is to map content to the funnel, match creative to the channel, and build a system that can keep working across paid, ecommerce, retail, and organic placements.
