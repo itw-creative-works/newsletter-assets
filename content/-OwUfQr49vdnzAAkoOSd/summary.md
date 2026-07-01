@@ -1,0 +1,1 @@
+Retail and creator marketing are getting more operational. Brands are testing paid loyalty tiers, leaning harder on creator-made content across channels, and figuring out how to show up when shoppers search with AI tools instead of classic search. The common thread is simple: build systems that can be reused, not one-off campaigns.
