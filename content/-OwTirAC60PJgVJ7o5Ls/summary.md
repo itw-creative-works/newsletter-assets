@@ -1,0 +1,1 @@
+Voice AI is getting noticeably more responsive, and the architectural wins matter as much as the model updates. At the same time, teams are getting more disciplined about evaluating outputs and storing context in a way that does not lock them into one tool. The common thread is simple: better AI systems are becoming less about one perfect model and more about the stack around it.
