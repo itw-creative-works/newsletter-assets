@@ -1,0 +1,1 @@
+AI fluency is shifting from writing better prompts to making better decisions. The marketers who get the most value from AI will be the ones who can spot weak outputs, catch missing context, and add human judgment before anything goes live.

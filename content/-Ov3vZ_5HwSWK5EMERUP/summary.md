@@ -1,0 +1,1 @@
+A brand can change its creative without changing its playbook. The smarter move is often to refresh the visuals, tighten the message, and keep the media strategy anchored to what already works. For QR campaigns, that means updating the front end while preserving the data behind it.

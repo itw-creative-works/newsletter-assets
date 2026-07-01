@@ -1,0 +1,1 @@
+Merch and packaging are becoming more data-driven at the same time brands are looking for greener materials and better customer journeys. The big takeaway: offline touchpoints are no longer just physical objects, they are measurable entry points that can connect to digital actions, whether that is a scan, a signup, or a purchase.

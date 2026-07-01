@@ -1,0 +1,1 @@
+AI literacy is moving beyond prompt writing and toward judgment. The marketers who win will be the ones who can evaluate outputs, spot weak ideas, catch inaccuracies, and know when a human touch matters. That same standard applies to branded QR campaigns, where the tool is useful, but the real advantage comes from the choices behind it.

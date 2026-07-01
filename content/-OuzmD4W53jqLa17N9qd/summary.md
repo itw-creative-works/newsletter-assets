@@ -1,0 +1,1 @@
+Instagram’s new grid controls make profile pages more intentional, which matters because profile visits are still a real conversion moment. Brands can now design the first impression around one job at a time: sell, follow, or get people to watch more. That same logic applies off-platform too, where every scan or visit should have a clear next step.

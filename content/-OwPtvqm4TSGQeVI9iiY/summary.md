@@ -1,0 +1,1 @@
+Organic growth usually breaks down for one simple reason: teams skip the order and jump straight to tactics. The strongest systems start with audience and search intent, then move through cleanup, content, and measurement so each step supports the next. The same logic applies to keeping pages fresh and avoiding self-competition across your own site.

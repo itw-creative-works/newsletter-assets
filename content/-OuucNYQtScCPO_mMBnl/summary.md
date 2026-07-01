@@ -1,0 +1,1 @@
+Brand refreshes work best when they preserve recognition and improve usefulness. For QR codes, that means keeping the visual cues people trust while updating the design, landing page, and tracking behind them. The goal is not reinvention for its own sake, but a cleaner bridge from print to measurable digital action.
