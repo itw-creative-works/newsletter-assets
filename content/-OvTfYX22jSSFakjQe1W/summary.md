@@ -1,0 +1,1 @@
+AI is no longer just about building a model once. The real work is in running it efficiently, funding it properly, and making sure teams can keep improving it after launch. That is changing how engineers, product teams, and even instructors think about AI work.

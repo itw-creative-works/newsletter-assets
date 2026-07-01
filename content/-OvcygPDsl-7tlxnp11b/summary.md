@@ -1,0 +1,1 @@
+AI tools are getting better at handling multi-step work, but that does not mean every flashy claim is solid. The real student skill is knowing when a tool saves time, when it only looks smart, and when you still need to check the work yourself.

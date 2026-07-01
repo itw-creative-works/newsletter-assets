@@ -1,0 +1,1 @@
+AI use is shifting from occasional questions to a more regular study habit, with people trying more kinds of tasks over time. That matters for students because the real value is not just getting an answer faster, but building a workflow you can reuse, verify, and improve across classes.

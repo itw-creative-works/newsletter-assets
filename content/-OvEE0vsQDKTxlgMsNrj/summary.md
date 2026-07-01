@@ -1,0 +1,1 @@
+Colleges are feeling pressure from fewer traditional-age students, and some are trying unusual ways to stay viable. Meanwhile, IT teams are dealing with active VPN exploits and messy AI oversight, while new AI tools are getting more powerful and more tightly controlled.

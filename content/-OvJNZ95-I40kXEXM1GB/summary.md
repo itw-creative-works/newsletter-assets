@@ -1,0 +1,1 @@
+Performance words get tossed around a lot, but they do not mean the same thing. Latency is delay, throughput is how much gets done, and bandwidth is the ceiling that sets the limit. On the AI side, memory is becoming a bigger part of the experience, which makes it worth checking what your assistant remembers and how it changes over time.

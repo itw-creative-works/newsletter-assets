@@ -1,0 +1,1 @@
+A lot of online businesses still rely on the same exhausting loop: launch, sell, repeat. One creator’s shift to membership revenue shows how a simpler model can unlock steadier growth, but the real work is in the transition. We also look at what AI product news says about the future of pricing, translation, and everyday workflows.

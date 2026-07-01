@@ -1,0 +1,1 @@
+AI is improving fast enough that a lot of students are starting to wonder what skills still matter. The good news: the most useful people are usually not the ones who do one thing perfectly, but the ones who can think clearly, adapt quickly, and keep learning. This issue breaks down what that means for school, projects, and the kinds of habits that make you harder to replace.

@@ -1,0 +1,1 @@
+It is getting easier to produce more code, more tasks, and more motion, but that does not automatically create better products or better days. The real challenge now is knowing when work is meaningful, when it is just busy, and when one good choice beats a shelf full of maybes.

@@ -1,0 +1,1 @@
+When a problem feels stuck, the first answer is not always the best one. This issue looks at a simple habit for breaking out of fixed thinking, why big breakthroughs usually come from building on what already works, and how students can use that same idea to tackle homework with less spinning and more progress.

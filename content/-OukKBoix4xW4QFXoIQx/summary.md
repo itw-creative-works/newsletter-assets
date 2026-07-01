@@ -1,0 +1,1 @@
+Latency, throughput, and bandwidth get mixed up all the time, but they describe different parts of performance. Knowing the difference helps you debug slow apps, understand network tradeoffs, and read system design explanations with way more confidence.
