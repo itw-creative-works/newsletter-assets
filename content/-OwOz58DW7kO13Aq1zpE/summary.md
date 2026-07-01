@@ -1,0 +1,1 @@
+This week’s theme is simple: stop posting without a job for each piece of content. Reels, ads, and creator campaigns work better when you choose one outcome, then build the ask around it. The other lesson is to keep talking about your offer more often than feels natural, because most audiences are still not fully reached.

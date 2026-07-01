@@ -1,0 +1,1 @@
+The biggest social wins this week all point in the same direction: platforms are still useful, but they are no longer the whole business. Creators and brands are using attention to build products, communities, and revenue streams that can survive algorithm shifts. At the same time, AI is moving from experiment to everyday workflow for social teams.

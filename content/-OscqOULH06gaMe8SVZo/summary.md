@@ -1,0 +1,1 @@
+Creator influence is moving from a nice-to-have to a structural part of how platforms, brands, and agencies operate. This week’s signal: more tools for automation and AI, more formalization around agency expertise, and more opportunities for creators to shape high-visibility brand moments.

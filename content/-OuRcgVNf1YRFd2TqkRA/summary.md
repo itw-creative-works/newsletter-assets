@@ -1,0 +1,1 @@
+Brands and platforms are getting more intentional about how they show up in culture. The common thread is simple: attention still matters, but trust, timing, and native formats matter more when you want real engagement. This week’s playbook is about using creator-style storytelling, faster video workflows, and cultural signals that feel earned, not forced.

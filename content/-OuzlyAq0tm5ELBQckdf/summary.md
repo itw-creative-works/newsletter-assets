@@ -1,0 +1,1 @@
+Instagram is putting more control in users’ hands, while social teams are being pushed to work more like operators than publishers. That means tighter content audits, better use of analytics, and workflows built to repurpose what already performs. The bigger shift is simple: if you want reach, you need a repeatable system, not just more posts.

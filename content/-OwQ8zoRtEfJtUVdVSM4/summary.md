@@ -1,0 +1,1 @@
+This week’s theme is simple: social platforms are adding more AI and video tools, but the real gains still come from clear goals and cleaner execution. If you are running growth on autopilot, the win is not chasing every new feature. It is tightening your workflow so each post, ad, and partnership has one job to do.

@@ -1,0 +1,1 @@
+Social platforms are tightening the loop between creation, messaging, and distribution. The latest wave of tests points to a simpler workflow for creators and brands: use AI for repetitive tasks, meet audiences across more surfaces, and adapt content for formats that favor discovery and retention.

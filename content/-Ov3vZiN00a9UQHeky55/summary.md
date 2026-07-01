@@ -1,0 +1,1 @@
+Instagram is rolling out profile grid rearranging, giving users more control over how their posts appear. For creators and small brands, that makes the profile page less like a chronological archive and more like a curated landing page. The bigger opportunity is in pairing that control with a cleaner posting system, so your best content stays visible longer.
