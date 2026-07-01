@@ -1,0 +1,1 @@
+Deploying code is easy until real users hit it. The safer patterns all do the same thing in different ways: shrink the blast radius, separate release from exposure, and make rollback boring. For teams shipping static sites and form backends, that means fewer risky launches and cleaner handoffs to production traffic.

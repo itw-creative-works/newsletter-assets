@@ -1,0 +1,1 @@
+Loading states are often a sign the app is waiting too late, not a reason to expose spinners everywhere. Teams are also getting more disciplined about how they deploy, using smaller blast radiuses and progressive rollouts instead of one risky push. And as AI speeds up coding, the bigger question is becoming how to keep systems maintainable and developers sane.

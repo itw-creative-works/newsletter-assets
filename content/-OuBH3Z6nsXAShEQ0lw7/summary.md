@@ -1,0 +1,1 @@
+Support automation is opening new attack paths, which is a reminder that every form, reset flow, and verification step needs hardening. At the same time, AI is moving onto new hardware and more companies are lining up for public markets. The pattern is clear: the tools are changing fast, but the basics of trust, workflow, and shipping still matter most.

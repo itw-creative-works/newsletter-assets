@@ -1,0 +1,1 @@
+This issue looks at where agent workflows still break down: missing context, messy tool wiring, and weak guardrails. It also highlights why open-weight models and file-system-driven frameworks are making agent setups more predictable for builders. The takeaway is simple: better structure beats more tokens.

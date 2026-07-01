@@ -1,0 +1,1 @@
+Angular 22 leans into a clear pattern: stabilize the useful stuff, then keep moving on the edges. For teams building forms and dashboards, the big story is better reactive forms, stronger accessibility defaults, and a cleaner path for async data handling.

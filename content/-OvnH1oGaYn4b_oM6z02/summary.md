@@ -1,0 +1,1 @@
+AI tooling only compounds when teams change how they work. The practical shift is from isolated experimenters to pods with clear ownership, better specs, and tighter verification loops. Leaders who make that transition measurable can turn faster engineers into a faster organization.

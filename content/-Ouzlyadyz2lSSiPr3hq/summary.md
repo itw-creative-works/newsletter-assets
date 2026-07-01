@@ -1,0 +1,1 @@
+Deployment risk drops when you stop treating release day like a single event. Progressive delivery, feature flags, and human checkpoints let teams limit blast radius, catch regressions earlier, and avoid turning one bad push into a full outage.

@@ -1,0 +1,1 @@
+Modern apps are held together by code from dozens of places, and that creates risk long before your own code ever runs. The same idea shows up in accessibility and workflow design: if the system is fragile, fast shipping just means you fail faster. The fix is to treat dependencies, usability, and context as operational concerns, not afterthoughts.

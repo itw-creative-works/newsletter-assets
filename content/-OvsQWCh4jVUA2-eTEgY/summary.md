@@ -1,0 +1,1 @@
+AI-native apps push teams toward monorepos, but many orgs still have code scattered across dozens of repos. The bigger problem is not just access, it is context, because agents lose the thread as soon as the work crosses service boundaries. The emerging pattern is to add a harness around existing tools so agents can work with the full system without forcing a full rewrite.

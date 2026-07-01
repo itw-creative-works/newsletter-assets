@@ -1,0 +1,1 @@
+The strongest AI workflows are not built on blind trust. They add scrutiny, keep context durable, and make verification part of the pipeline so outputs can be checked before they ship. That shows up in code review, agent orchestration, and self-service analytics alike.
