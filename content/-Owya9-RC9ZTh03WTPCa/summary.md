@@ -1,0 +1,1 @@
+Open models are no longer coming from just a few big players. More niche teams are shipping capable releases, and the reasons now range from ecosystem strategy to sovereignty to pure frontier chasing. At the same time, vibe coding is making software easier to imitate, which raises the bar for what actually counts as a moat.
