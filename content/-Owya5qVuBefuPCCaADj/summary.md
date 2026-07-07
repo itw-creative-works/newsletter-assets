@@ -1,0 +1,1 @@
+Trying to remove one unwanted habit from an AI by filtering the training data sounds simple, but it often barely changes the result. The big takeaway: the path from a few examples in the data to a specific model behavior is messier than most people expect. For students, it is a good reminder that learning from examples can be powerful, but not every example has the same weight.
