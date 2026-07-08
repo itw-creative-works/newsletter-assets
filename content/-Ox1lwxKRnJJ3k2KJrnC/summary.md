@@ -1,0 +1,1 @@
+Multi-channel work gets messy when every channel is asked to do the same thing. The fix is simpler than most dashboards suggest: assign each channel a job, connect the handoffs, and measure what actually moved the customer forward. AI helps with routing and speed, but humans still need to set the rules.
