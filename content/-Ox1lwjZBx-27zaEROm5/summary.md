@@ -1,0 +1,1 @@
+AI support works best when it is wrapped in a clear workflow, permissions, and output structure. The newest examples point to a simple idea: build systems that gather evidence, make decisions, and produce useful artifacts, instead of asking a generic bot to improvise. Voice is heading the same way, with smoother back-and-forth and more capable handoffs behind the scenes.
