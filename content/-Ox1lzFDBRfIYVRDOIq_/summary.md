@@ -1,0 +1,1 @@
+AI can make individual tasks faster, but the bottleneck is usually the workflow around the task. The practical win is to build a harness for repetitive, structured work so the same steps, permissions, and outputs happen every time without copy-pasting prompts. That is where teams save time, reduce drift, and get more consistent results.
