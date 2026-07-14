@@ -1,0 +1,1 @@
+AI news this week points in two directions at once: the big labs are racing to build better agents, video tools, and faster models, while the price and token cost of using AI keeps dropping. For students, that means more capable homework help, but also a bigger need to use these tools intentionally so you get real learning, not just quick answers.
