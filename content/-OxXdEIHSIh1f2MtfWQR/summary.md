@@ -1,0 +1,1 @@
+AI is not removing the need for judgment, it is moving it to the front of the workflow. Models need to be trained for preference and usefulness, ad teams are racing against creative fatigue, and engineering teams are learning to hire for taste instead of trivia. The throughline is simple: the bottleneck is no longer making outputs, it is choosing the right ones.
