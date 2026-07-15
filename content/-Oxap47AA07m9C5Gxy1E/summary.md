@@ -1,0 +1,1 @@
+This issue is about staying practical when the pressure to overbuild is strong. Better hardware, simpler architecture, and smarter support workflows all point to the same lesson: the best tools reduce friction for the work you do now, not the work you might imagine later.
