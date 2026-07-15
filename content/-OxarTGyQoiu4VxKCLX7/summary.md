@@ -1,0 +1,1 @@
+CSS keeps picking up features that do more than paint pixels. The latest wave is about practical control: shapes, gaps, time-aware designs, accessible layouts, and form elements that finally behave a little less stubbornly.
