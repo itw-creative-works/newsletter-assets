@@ -1,0 +1,1 @@
+This issue is about using AI where consistency matters more than cleverness. The big idea: wrap agents in simple workflows, permissions, and tool connections so they can handle repeatable support and ops tasks without wandering off script. For small teams, that usually beats trying to make one general tool do everything.
