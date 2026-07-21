@@ -1,0 +1,1 @@
+Engineering teams are hitting a measurement problem: the most useful work is getting harder to see in the usual dashboards. At the same time, better models are increasingly limited by the quality and structure of the data, not just more compute. The practical takeaway is simple: separate activity metrics from outcome metrics, and invest in data that actually adds information.
