@@ -1,0 +1,1 @@
+This week’s theme is capability without the bloat. Open models are closing in on closed ones in some technical tasks, local Mac apps are making it easier to run models on your own machine, and new tools are pushing AI workflows to be cheaper and more focused. There’s also a standout math result that reminds us how fast the frontier can move.
