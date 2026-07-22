@@ -1,0 +1,1 @@
+Forms do not always live in left-to-right layouts. If you support languages like Arabic, vertical labels, or compact UI patterns, writing mode and logical properties can keep your forms readable without building separate stylesheets. The key is to stop hard-coding left and right and start styling for direction-aware layouts.
