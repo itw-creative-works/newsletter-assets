@@ -1,0 +1,1 @@
+More traffic is not the same as more business. If your website is confusing, slow, or vague, people leave before they ever reach the contact form, which means the first fix is usually conversion, not acquisition. Small, practical changes to messaging, speed, and friction can turn the same traffic into more inquiries without adding another channel to babysit.
