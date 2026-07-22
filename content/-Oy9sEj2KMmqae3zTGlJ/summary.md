@@ -1,0 +1,1 @@
+Clean numbers are easy to trust, but they often miss how work actually happens. This issue looks at why benchmarks, dashboards, and activity metrics can mislead teams, and what to use instead when the real goal is speed, reliability, and useful output.
