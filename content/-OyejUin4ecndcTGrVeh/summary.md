@@ -1,0 +1,1 @@
+AI is moving from chatbots to agentic systems that can do more work in one pass, but that does not automatically make teams faster. In practice, many coding workflows still happen in isolation, which creates review risk and weakens shared learning. The takeaway for builders is simple: measure quality, collaboration, and reuse, not just output.
