@@ -1,0 +1,1 @@
+Brands are borrowing a newsroom model to keep up with how people actually consume information now. The big shift is simple: listen in real time, move faster than the approval stack, and turn internal notes into timely content before the moment passes. The best teams are treating this like an operating system for social, not a one-off campaign.
