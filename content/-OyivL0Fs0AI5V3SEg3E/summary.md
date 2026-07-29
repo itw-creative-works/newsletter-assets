@@ -1,0 +1,1 @@
+Google is giving more marketers a clearer view of how social and video content is discovered in search. The practical takeaway is simple: treat your post ideas, captions, and creative angles like searchable assets, then use query data to double down on what people are actually looking for.
