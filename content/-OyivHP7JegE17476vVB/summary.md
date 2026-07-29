@@ -1,0 +1,1 @@
+LLMs can improve search, but the real design choice is how much control you let them have. Three large delivery apps solved the same intent-matching problem with different architectures, which is a useful pattern for any team thinking about production AI.
