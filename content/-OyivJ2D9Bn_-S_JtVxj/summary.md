@@ -1,0 +1,1 @@
+Cold email usually fails for boring reasons, not mysterious ones. The biggest fixes are straightforward: aim at the right person, give something useful first, keep the ask tight, and stop treating follow-up like a volume sport. The same logic applies to SEO too: business goals, search intent, and technical basics all need different handling.
