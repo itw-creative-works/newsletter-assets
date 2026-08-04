@@ -1,0 +1,1 @@
+Making something useful is only half the job. If you cannot explain who it is for, how it will travel, and what result you want, paid or organic promotion becomes guesswork. The same applies to influencer reach and basic creative specs: distribution works better when the format, audience, and channel are planned together.
