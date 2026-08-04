@@ -1,0 +1,1 @@
+AI tools are getting better at doing real work, but the useful move for students is still pretty simple: use them to think with you, not for you. This week’s theme is how to turn a chatbot into a study partner for planning, explaining, and checking your work without losing the learning part.
