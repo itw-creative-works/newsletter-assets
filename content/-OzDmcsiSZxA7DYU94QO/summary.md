@@ -1,0 +1,1 @@
+AI systems are getting better at doing long stretches of real work, but the infrastructure underneath them is still expensive. The biggest bottleneck is memory: long contexts balloon GPU usage, so teams are turning to compressed attention, smarter routing, and narrower working sets to keep costs in check.
