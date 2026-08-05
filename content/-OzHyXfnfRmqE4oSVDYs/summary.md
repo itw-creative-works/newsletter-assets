@@ -1,0 +1,1 @@
+AI search is shrinking the value of raw traffic and making every visit count more. That shift puts pressure on brands to build click-worthy experiences, track what actually drives action, and make QR codes part of a smarter offline-to-online funnel. The lesson for marketers is simple: don’t optimize for scans alone, optimize for what happens after the scan.
