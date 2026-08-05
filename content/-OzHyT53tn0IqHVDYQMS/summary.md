@@ -1,0 +1,1 @@
+AI can be helpful and still be a bad customer service experience when it hides the answer in layers of jargon. The real test is not whether a reply sounds intelligent, but whether a busy person can act on it in one read. If your inbox is full of questions, the winning move is clear, human answers that cut the scroll.
