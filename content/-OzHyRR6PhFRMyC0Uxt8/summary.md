@@ -1,0 +1,1 @@
+Gap decorations are now available in Chromium-based browsers, which means grid and flex layouts can use built-in separators instead of border hacks and pseudo-elements. The feature also adds support for both row and column rules, giving developers more control over how spacing is styled across layouts.
