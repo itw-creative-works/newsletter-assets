@@ -1,0 +1,1 @@
+AI tooling is moving toward more transparent reasoning, better logging, and more built-in actions. That matters for customer support teams because the same advances make chatbot behavior easier to audit, cheaper to run, and more useful for tasks like lookup, troubleshooting, and guided workflows.
