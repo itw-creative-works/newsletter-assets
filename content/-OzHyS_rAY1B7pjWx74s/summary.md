@@ -1,0 +1,1 @@
+This issue is about the small systems that make fast work sustainable: reusable snippets, stricter automation gates, and tighter feedback loops. It also looks at how embedded scripting keeps high-performance apps flexible without turning every change into a heavy engineering task.
