@@ -1,0 +1,1 @@
+AI is moving from chat-based assistance to agent-driven workflows that can ship, migrate, and even attack on their own. That shift is changing how teams build software, how they think about infrastructure, and how they organize research leadership. The practical takeaway is simple: if your tools still assume a human in every loop, you are already behind.
