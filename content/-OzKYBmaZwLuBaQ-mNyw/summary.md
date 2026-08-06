@@ -1,0 +1,1 @@
+A new wave of classroom-focused AI tools is designed to work with the materials students and teachers already use. The big idea is simple: keep people in control, but make it easier to get step-by-step help, plan lessons, and work through complex tasks without starting from scratch.
