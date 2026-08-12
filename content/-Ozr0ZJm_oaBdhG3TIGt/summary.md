@@ -1,0 +1,1 @@
+AI tools can make the first draft, first pass, or first rewrite feel effortless. The catch is that the harder work often shows up later in review, cleanup, and judgment, and that is where a lot of teams still lose time. The same gap is showing up in hiring too, where tool access and practice time can quietly shape who looks “qualified.”
