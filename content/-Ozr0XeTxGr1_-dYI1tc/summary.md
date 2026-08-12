@@ -1,0 +1,1 @@
+AI coding tools are changing who gets opportunities, not just how fast work gets done. At the same time, developer platforms are shifting away from code generation and toward the harder parts of shipping software: collaboration, deployment, and workflow control. The practical takeaway is simple: access, automation, and process are becoming the real moat.
