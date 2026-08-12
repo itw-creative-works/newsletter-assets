@@ -1,0 +1,1 @@
+Ad placement inside ChatGPT is getting more permissive, including in some health and finance contexts. The bigger issue is not just where ads can appear, but whether the platform can reliably tell the difference between a normal commercial query and a sensitive one. For support teams, this is a reminder that policy language can move faster than user expectations.
