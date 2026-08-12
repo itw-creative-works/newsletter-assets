@@ -1,0 +1,1 @@
+People do not rally around features alone. They respond to a clear story, a visible point of view, and a reason to act now. For brands using QR codes, that means the code should do more than link to a page, it should carry a message people want to scan.
