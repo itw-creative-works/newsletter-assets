@@ -1,0 +1,1 @@
+This week’s theme is simple: AI keeps getting stronger in some tasks, but writing is still uneven in ways students can notice. One new model also shows that the same prompt can produce very different output depending on how you ask it to reason. The bigger lesson for homework help is to use AI for structure and examples, then do the final thinking yourself.
