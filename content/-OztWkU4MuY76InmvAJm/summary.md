@@ -1,0 +1,1 @@
+AI code generation is getting cheap, but that does not mean the economics got simple. Dev platforms are moving up the stack, BYOK products are spreading, and hiring signals are starting to favor people who can afford premium tools and the time to learn them.
