@@ -1,0 +1,1 @@
+This week is about infrastructure catching up in two places and slowing down in a third. A new model API arrives with better coding and agent performance at the same price, a fresh AI system-on-chip promises more speed for selected customers, and a major lab is tightening its posture on cyber-related work.
