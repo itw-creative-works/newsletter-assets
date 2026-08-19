@@ -1,0 +1,1 @@
+OpenAI is expanding ChatGPT ads into Europe after a half-year rollout across other major markets. The move is less about speed than compliance, since European consent rules make personalized targeting harder to justify. For inbox teams, the bigger lesson is simple: the best automation still has to earn trust before it earns attention.
