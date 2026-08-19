@@ -1,0 +1,1 @@
+CSS is starting to move beyond single-page styling and into navigation-aware behavior. The big shift is a declarative way to target specific page-to-page journeys, which could simplify cross-document transitions and reduce JavaScript glue.
