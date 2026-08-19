@@ -1,0 +1,1 @@
+Simple retrieval works when the answer sits in one place. It gets much weaker when the real question is about patterns across many documents, like recurring issues, ownership spread, or common failure modes. For support teams, that means better bots may need structured context, not just keyword matching.
