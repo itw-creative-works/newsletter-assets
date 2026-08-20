@@ -1,0 +1,1 @@
+AI is changing what “good engineering” looks like in three places: framework selection, language toolchains, and incident response. Teams are discovering that some stacks are easier for coding agents to work with, compiler teams are rewriting core tooling with a lot less LLM help than people expect, and production failures in AI systems do not behave like normal outages.
