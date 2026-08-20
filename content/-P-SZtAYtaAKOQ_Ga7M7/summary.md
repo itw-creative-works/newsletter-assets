@@ -1,0 +1,1 @@
+AI content is getting more traceable, audience research is getting more concrete, and your website still matters as the place everything points back to. The practical move this week is to tighten your workflow, use better audience inputs, and treat your site like the source of truth for the rest of your content system.
