@@ -1,0 +1,1 @@
+Scroll-driven motion can make forms feel lighter and more intentional, especially on long landing pages. The trick is to use animation to guide attention, not distract from submission. For static sites, this is a clean way to surface a lead capture form, a sticky help hint, or a progressive CTA without adding heavy JavaScript.
