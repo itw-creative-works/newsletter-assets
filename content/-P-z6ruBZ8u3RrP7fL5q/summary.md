@@ -1,0 +1,1 @@
+SEO teams keep getting judged on the wrong scoreboard. The fix is to translate search performance into business language, build content that adds something new, and stop panicking every time AI text gets a watermark. The useful question is still the boring one: does this help people, and can leadership see it?
