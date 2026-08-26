@@ -1,0 +1,1 @@
+The best engineering work is not always the smallest fix or the fastest patch. For senior folks, the leverage comes from improving the system so the same problem stops returning. For juniors, the goal is not just shipping code faster, but building judgment, understanding, and the habit of asking better questions.
