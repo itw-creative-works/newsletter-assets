@@ -1,0 +1,1 @@
+As lean teams grow, they need more than a stack of HR features. The winning providers will be the ones that combine automation with real support, help teams stay compliant, and adapt as the business changes. The same idea applies to customer support: tools only matter if they expand what a small team can handle without adding headcount.
