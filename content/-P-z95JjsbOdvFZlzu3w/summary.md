@@ -1,0 +1,1 @@
+SEO gets easier when you stop treating it like a checklist and start treating it like three separate demands. Your business, your searchers, and search engines all want different things, and the sites that win are the ones that balance all three while keeping pages fast enough for mobile-first traffic.
