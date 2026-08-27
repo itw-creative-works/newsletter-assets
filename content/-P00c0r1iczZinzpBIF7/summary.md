@@ -1,0 +1,1 @@
+This week is about replacing repetitive social work with systems you can reuse. The big idea: pair the right tools with repeatable workflows so discovery, scheduling, reporting, and creator outreach stop living in your inbox. If you want more output without more busywork, the play is to automate the parts that never need your full attention.
