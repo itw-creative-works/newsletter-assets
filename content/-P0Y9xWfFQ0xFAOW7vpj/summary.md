@@ -1,0 +1,1 @@
+Mall operators are turning shopper movement into a new ad product, combining screen inventory with Wi-Fi and visitation data. For brands, that means more precise targeting, better measurement, and a clearer path from foot traffic to outcomes.
