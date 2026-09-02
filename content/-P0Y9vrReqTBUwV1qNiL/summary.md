@@ -1,0 +1,1 @@
+A routing hijack can do more than break traffic. In this case, it was used to impersonate a software vendor, clone its site, and push malicious updates through a trusted channel. The takeaway for operators is simple: treat update infrastructure like production traffic, because attackers do.
