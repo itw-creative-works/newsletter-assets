@@ -1,0 +1,1 @@
+Engineering teams are being pulled in two directions at once: new computing platforms are opening up long-term opportunities, while the AI tools already bought by companies are not always becoming daily habits. The common thread is execution, not hype. The real winners will be teams that can ship, measure, and build repeatable workflows instead of collecting approvals.
