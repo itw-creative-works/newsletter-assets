@@ -1,0 +1,1 @@
+Email feels broken less because of volume and more because everything lands in the same pile. The same idea that could clean up inboxes also applies to form handling: score, sort, and route every submission before it reaches a human. Better defaults save time, reduce noise, and make the real leads stand out.
