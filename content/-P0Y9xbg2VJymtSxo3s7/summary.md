@@ -1,0 +1,1 @@
+Email is still where support, sales, and ops get noisy fast, but the next useful move is not another inbox. It is a simple ranking layer that scores incoming messages, separates the urgent from the routine, and hands people only the work that needs judgment. For small teams, that can mean fewer missed leads, faster replies, and a cleaner path to automation.
