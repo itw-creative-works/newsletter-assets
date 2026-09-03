@@ -1,0 +1,1 @@
+This week is about making the most of small moments. We look at why brief, genuine interactions can matter more than we expect, how a fast AI model can help students build and test ideas quickly, and why surveys are useful when you want better feedback. The common thread: short does not mean shallow.
