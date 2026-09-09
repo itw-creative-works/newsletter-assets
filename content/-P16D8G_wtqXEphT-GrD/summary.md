@@ -1,0 +1,1 @@
+The fastest teams are not adding more tools, they are compressing repeated work into reusable text. As AI-made systems and fast-moving products become harder to fully understand, the safest productivity win is simpler: reduce retyping, standardize replies, and keep your most common language one shortcut away.
