@@ -1,0 +1,1 @@
+AI search can now stitch together stale brand pages, old PDFs, and mismatched bios into one confident but wrong answer. The fix is less glamorous than the problem: audit public sources, align naming across pages, and keep a clean path for humans and machines to follow.
