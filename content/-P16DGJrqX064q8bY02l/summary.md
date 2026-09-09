@@ -1,0 +1,1 @@
+Flexible search ads work best when you feed them strong assets, clear intent, and a landing page that matches the promise. The real win is not automation alone, but using it to test more variations faster and guide more qualified clicks into a consistent next step.
