@@ -1,0 +1,1 @@
+Payment systems live or die on a tiny latency budget, so reliability has to be designed in at every hop. The key lessons are simple: isolate traffic, keep failure domains small, and make retries and timeouts deliberate instead of accidental. Those same patterns show up anywhere you need dependable API calls under pressure.
