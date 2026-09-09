@@ -1,0 +1,1 @@
+Replacing SaaS can create real savings, but the bigger lesson is not to rebuild everything. The smartest wins come from narrow tools that handle one job well, especially support, moderation, alerts, and simple content workflows. For SMBs, the question is less “Can we replace this app?” and more “Which repetitive tasks are worth owning?”
