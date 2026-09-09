@@ -1,0 +1,1 @@
+More builders are trimming their stack by swapping expensive SaaS for small services they control. The winning pattern is not heroics, but narrow tools that do one job well, run cheaply, and plug into the rest of the workflow. The real lesson: if a tool only supports one workflow, it may be cheaper to own that workflow outright.
