@@ -1,0 +1,1 @@
+This week’s theme is simple: distribution is shifting, and the old playbook needs a tune-up. On LinkedIn, late afternoon and early evening are becoming stronger posting windows, while AI tools are starting to reward content that is structured for quick retrieval, not just human scrolling. The practical move is to build a posting system that works for both people and machines.
