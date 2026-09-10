@@ -1,0 +1,1 @@
+AI is advancing faster than most people’s day-to-day experience of it. The gap between technical progress and visible impact is still wide, and the first durable wins are showing up in products that remove friction from real work, not in novelty features. At the same time, the field is getting more operationally serious, more expensive, and more contested.
