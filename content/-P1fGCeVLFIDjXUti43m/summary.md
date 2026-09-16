@@ -1,0 +1,1 @@
+Two recurring ops problems show up again and again at larger tech companies: capacity planning based on guesswork, and internal platforms that nobody adopts. The fix is less about better spreadsheets or more features, and more about translating demand into hardware, and rebuilding trust through transparency and ownership.
