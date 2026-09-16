@@ -1,0 +1,1 @@
+A lot of teams are still carrying around workaround logic that made sense once and now just adds friction. At the same time, AI tools are turning the interface into a thinner layer, which makes simple, reliable processes more valuable than clever ones. The teams that win here are the ones willing to remove the extra step, not defend it.
