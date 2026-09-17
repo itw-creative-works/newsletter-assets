@@ -1,0 +1,1 @@
+AI tools can look great in a single try and still be shaky the next time you use them. This issue looks at why repeatability matters, where humans still need to stay in the loop, and how students can use AI tutors without letting the tool do all the thinking.
