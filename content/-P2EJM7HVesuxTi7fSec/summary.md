@@ -1,0 +1,1 @@
+A good model or workflow usually does not fail because it lacks intelligence. It fails when the output needs to follow your rules more closely than a general tool can manage on its own. The same idea applies to keyboard work: once you spot the repeatable parts, you can turn them into reusable snippets, templates, and prompts that save time every day.
