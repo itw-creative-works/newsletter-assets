@@ -1,0 +1,1 @@
+Search is starting to answer more queries before people reach your site. That can lift visibility while trimming clicks, which makes tracking downstream conversions more important than ever. If your brand depends on search, the new job is not just ranking, but giving people a reason to act after they scan or search.
