@@ -1,0 +1,1 @@
+AI training is shifting from one-off workshops to something more local and repeatable. The big idea is simple: people learn faster when they can practice useful tasks with support from someone nearby. For students, that means more chances to build real AI skills without needing a fancy setup or a computer science background.
