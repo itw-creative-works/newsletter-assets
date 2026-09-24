@@ -1,0 +1,1 @@
+The strongest growth teams are treating social as a signal layer, not just a posting channel. They are watching competitor moves, borrowing the best creative patterns from standout brands, testing AI video hooks, and using social activity to improve discoverability in AI search. The common thread is simple: collect better signals, then turn them into repeatable content decisions.
