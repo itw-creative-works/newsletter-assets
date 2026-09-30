@@ -1,0 +1,1 @@
+AI tools are making it easier to ship changes, but not always easier to understand them after they fail. The gap shows up when teams can move fast, roll back cleanly, and still struggle to explain the root cause. That is a process risk worth fixing before it turns into repeated rework.
