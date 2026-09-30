@@ -1,0 +1,1 @@
+Browsers are starting to make room for more than video in picture-in-picture windows. That means you can build small always-on widgets for notes, chat, status, or even a live form without asking users to keep a tab open. The catch is simple: when you move UI out of its original page, you need to rethink styling, browser support, and state handling.
