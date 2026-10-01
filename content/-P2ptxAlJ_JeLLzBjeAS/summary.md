@@ -1,0 +1,1 @@
+This issue is about using tiny experiments to improve how you study instead of trying to overhaul everything at once. The basic idea is simple: notice what is happening, test one small change, and keep the parts that help. If you want more support, a guided practice group can make the process easier to stick with.
