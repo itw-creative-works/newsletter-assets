@@ -1,0 +1,1 @@
+The clearest winning AI pattern right now is not a smarter chatbot, but a better system for routing decisions. That shows up in the home, in product agents, and in customer support: integrate with existing tools, define standards, and let AI handle the repetitive judgment calls before a human ever gets involved.
