@@ -1,0 +1,1 @@
+Progress usually starts by making some repetitive work unnecessary. That can feel uncomfortable in the moment, but it is also how people get time back for better problems, better work, and better tools. The same pattern is showing up again now: the software that matters most will be the software that removes the most retyping.
