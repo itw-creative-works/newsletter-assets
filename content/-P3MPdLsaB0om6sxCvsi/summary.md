@@ -1,0 +1,1 @@
+AI is most useful when it takes over the small but important tasks that never make it onto your calendar. It is not always the right replacement for people, though, especially when the human is part of the product experience. The practical question is simple: is the person a cost center, or are they the reason people show up?
