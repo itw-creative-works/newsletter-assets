@@ -1,0 +1,1 @@
+Not every campaign starts online, and not every result should be judged by clicks alone. The smartest teams are pairing offline touchpoints with trackable QR codes, then using scan data and landing page behavior to estimate what each asset is actually worth. That makes it easier to shift budget toward the flyers, menus, mailers, and signs that drive real action.
