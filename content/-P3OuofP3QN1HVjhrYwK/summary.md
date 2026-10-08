@@ -1,0 +1,1 @@
+The practical play this week is not more campaigns, it is better systems. Tight CRM syncing, cleaner segmentation, and AI-assisted personalization can help smaller teams send more relevant email without adding headcount. The same approach carries into search, where clear content structure and machine-readable answers make it easier for people and AI tools to find you.
