@@ -1,0 +1,1 @@
+AI teams keep relearning the same lesson: elaborate human scaffolding is often getting replaced by better models and simpler controls. That shift is changing how agents are built, how subscriptions are priced, and how dev teams ship safely without overengineering the middle layer.
