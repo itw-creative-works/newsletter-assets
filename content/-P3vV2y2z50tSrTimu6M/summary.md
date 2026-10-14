@@ -1,0 +1,1 @@
+AI can sketch a polished marketing plan in seconds, but polish is not the same thing as a usable strategy. The useful version starts with your numbers, your constraints, and the tradeoffs you are actually willing to make. Without that context, the model defaults to more channels, more content, and more busywork.
