@@ -1,0 +1,1 @@
+Teams are moving faster, and that changes the tradeoff around staging. In many workflows, the old shared staging box is less useful than tighter guardrails, faster previews, and production-grade observability. The real question is no longer whether staging exists, but where the safety checks live.
