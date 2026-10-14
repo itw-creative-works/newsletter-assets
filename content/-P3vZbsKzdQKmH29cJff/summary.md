@@ -1,0 +1,1 @@
+This week’s theme is a shift from developer tooling to defensive automation. One side of the story is a runtime that helped normalize safer defaults and a more deliberate approach to dependencies. The other is a very different use of AI agents: posing as targets to waste scammer time and collect fraud signals before real victims get hit.
