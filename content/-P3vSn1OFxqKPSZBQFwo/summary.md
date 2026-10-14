@@ -1,0 +1,1 @@
+AI agents are getting useful in more places than coding. The latest model improvements are making them better at planning, long-running tasks, and structured workflows, but design and polished creative output still lag behind. For SMBs, that means the most practical wins are in support automation, lead qualification, and routine operations.
