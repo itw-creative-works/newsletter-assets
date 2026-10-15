@@ -1,0 +1,1 @@
+AI is moving from chat to task execution, which changes how teams choose tools and how they work. The new advantage is not just better models, but the right apps, guardrails, and human judgment around them. That shift is already speeding up product work, code shipping, and forward-deployed engineering.
