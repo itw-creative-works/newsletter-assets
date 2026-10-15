@@ -1,0 +1,1 @@
+On-device AI is getting more practical, with a model design that keeps most of the system asleep while only a small part does the work at any moment. That can mean faster responses, lower compute costs, and more private homework help on your own device. For students, the big takeaway is simple: useful AI does not always need to live in the cloud.
