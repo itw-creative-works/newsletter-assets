@@ -1,0 +1,1 @@
+WordPress now has a simpler way to register custom blocks using only PHP. That means fewer moving parts, no separate JavaScript registration step, and a faster path for developers who just want to ship editor-ready blocks. For teams building static sites and lightweight workflows, it is another reminder that the best tooling removes friction instead of adding it.
