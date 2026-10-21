@@ -1,0 +1,1 @@
+This issue is about the hidden systems that make work easier before anyone notices they need them. We look at how naming, structure, and small management habits can remove friction, plus a reminder that the best workflows often feel invisible once they are in place.
