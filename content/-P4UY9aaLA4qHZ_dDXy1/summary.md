@@ -1,0 +1,1 @@
+AI support teams often focus on model choice, but a quieter lever sits earlier in the stack: the tokenizer. When a model is tuned for one narrow job, its default vocabulary can waste tokens and inflate costs. The practical takeaway is simple: if your bot handles a repeatable workflow, specialization can improve both speed and spend.
