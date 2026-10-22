@@ -1,0 +1,1 @@
+AI search is moving past simple discovery and toward recommendation. If you want to show up in those answers, your site, reviews, and profile signals need to line up with what real buyers are asking for. On the platform side, Meta is still rewarding advertisers who pair better creative with machine learning, which is a reminder that relevance beats raw volume.
