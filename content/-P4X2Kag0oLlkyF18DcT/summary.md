@@ -1,0 +1,1 @@
+AI teams are showing off more serious math work, including a huge public set of proof writeups and formalized results from an unreleased model. At the same time, new open-weight models are giving students and researchers more options outside the biggest closed systems, while one more safety leader departure is a reminder that this field is still in flux.
