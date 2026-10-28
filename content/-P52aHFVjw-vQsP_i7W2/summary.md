@@ -1,0 +1,1 @@
+Impressions and clicks can make a campaign look healthy without proving anyone actually noticed it. The better move is to measure attention, then build demand across the channels that create familiarity before people ever search.
