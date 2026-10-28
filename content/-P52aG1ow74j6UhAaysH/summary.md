@@ -1,0 +1,1 @@
+AI is still helping developers write code faster, but the time savings are getting eaten by review, debugging, and cleanup. The bigger lesson is that speed at the keyboard does not automatically turn into speed for the team. Stronger design context, lighter review rules, and fewer handoffs are becoming the difference between a quick draft and a shippable change.
