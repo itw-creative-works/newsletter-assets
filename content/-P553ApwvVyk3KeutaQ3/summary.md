@@ -1,0 +1,1 @@
+AI models are getting better by spending more effort on reasoning, not just by getting bigger. At the same time, model names are doing more work than ever, signaling release order and how big a jump to expect. For students, the takeaway is simple: use AI for step-by-step thinking, not just answers.
