@@ -1,0 +1,1 @@
+AI agents are increasingly gravitating toward backend platforms that remove setup, schema drift, and deployment friction. The winning pattern is not just model familiarity, but systems that make it easier to build, run, and connect tools in ways agents can actually use.
