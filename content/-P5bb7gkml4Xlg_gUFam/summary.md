@@ -1,0 +1,1 @@
+AI can make writing code much faster, but that does not mean software ships faster by default. The bottleneck is shifting toward requirements, testing, source control, and the handoffs around them. Teams that stay useful in this new setup will optimize the whole workflow, not just code generation.
