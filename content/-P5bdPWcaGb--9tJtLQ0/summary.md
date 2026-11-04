@@ -1,0 +1,1 @@
+A lot of CMS platforms still make simple SEO work harder than it should be. The real issue is flexibility: teams need control over indexing, structured content, and page-level settings without waiting on a developer for every fix.
