@@ -1,0 +1,1 @@
+AI is doing two things at once: helping businesses strip out waste, and changing what clients expect from the people they hire. That means solo operators and SMBs need to be sharper about value, faster with support, and more intentional about where automation actually helps. The upside is real, but so is the need to keep the human parts of the relationship visible.
