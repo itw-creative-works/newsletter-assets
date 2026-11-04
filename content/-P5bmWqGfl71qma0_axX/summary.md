@@ -1,0 +1,1 @@
+Demand for on-prem HPC and AI servers is still climbing, but the growth story is more about expensive hardware than a flood of new boxes. GPU-heavy systems and rising memory prices are pushing server revenue up faster than shipments. For teams running data-heavy workloads, that means capacity planning now has to account for both performance and cost volatility.
