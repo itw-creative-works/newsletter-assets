@@ -1,0 +1,1 @@
+This week’s theme is simple: the best AI tools are getting better when they are more specific. Better guardrails, clearer permissions, and smarter defaults make it easier to build tools that help without drifting off track. For students, that is a good reminder that the smartest way to use AI is with clear boundaries and a clear job.
