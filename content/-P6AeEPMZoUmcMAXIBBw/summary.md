@@ -1,0 +1,1 @@
+This issue is about replacing fragile chat threads with a durable text system you can actually maintain. The same idea works for household admin, work tasks, and any process you keep revisiting: store the facts in plain files, then surface the right snippet when you need it. Less retyping, fewer lost details, and a shared source of truth that travels with you.
