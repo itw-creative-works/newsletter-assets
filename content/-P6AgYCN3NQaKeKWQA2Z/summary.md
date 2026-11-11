@@ -1,0 +1,1 @@
+A luxury brand is turning an exhibition into a revenue engine, not just a storytelling exercise. The big lesson for marketers is simple: when people experience a brand in person, they often shop differently afterward. For QR campaigns, that means the in-store moment should be built to capture attention, guide scans, and carry the story into the next step.
