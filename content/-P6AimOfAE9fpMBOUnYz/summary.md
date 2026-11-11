@@ -1,0 +1,1 @@
+AI is getting useful in support, but the real advantage is not speed alone. The teams getting value are using it to protect voice, keep replies consistent, and free people up for the messy cases that need judgment. The trick is making automation sound like a competent teammate, not a vending machine.
