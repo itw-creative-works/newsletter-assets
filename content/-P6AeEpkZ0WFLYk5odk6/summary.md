@@ -1,0 +1,1 @@
+A lot of teams are paying PaaS convenience tax when a small VPS can do the same job for far less. Pair that move with a few modern safety basics, and you can keep static sites simple, cheap, and reliable. On the front end, old-school CSS deduping is still worth doing when it reduces repetition without making maintenance worse.
