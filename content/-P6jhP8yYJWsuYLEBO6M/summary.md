@@ -1,0 +1,1 @@
+AI search is changing how shoppers find local businesses, and the default answer is often a big chain. Small retailers can fight back by publishing complete inventory, labeling products clearly, and using content plus QR codes to make stores easier for both people and AI to understand.
