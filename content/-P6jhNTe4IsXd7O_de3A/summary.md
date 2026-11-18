@@ -1,0 +1,1 @@
+Small workflow layers are doing more heavy lifting than flashy AI tools. A strong snippet library and a few clear rules can reduce retyping, tighten code safety, and keep support replies consistent across devices.
