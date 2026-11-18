@@ -1,0 +1,1 @@
+AI agent infrastructure is moving past simple sandboxing. The real production burden is lifecycle management, custom environments, routing, persistence, and recovery at scale. Teams that ignore those layers end up rebuilding a lot of the platform themselves.
