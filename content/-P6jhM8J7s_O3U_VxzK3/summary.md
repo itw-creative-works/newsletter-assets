@@ -1,0 +1,1 @@
+Static sites are fast to ship, but forms still need a real backend. The practical move is to wire submissions into email, webhooks, and automation tools so you can react quickly without standing up a server. The same mindset applies to AI and product tools: pick the few that remove setup friction and help you ship with less glue code.
