@@ -1,0 +1,1 @@
+AI evals can feel abstract until you frame them around a few practical gaps in product development. This issue breaks down the three places teams usually lose control: what the model can do, what good looks like, and how to improve it without guessing. The big idea is simple: if you want an AI tool students can trust, you need a way to measure it before you ship it.
