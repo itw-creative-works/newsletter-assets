@@ -1,0 +1,1 @@
+The most practical AI wins are not flashy. They come from wiring tools together, assigning narrow jobs, and making the system reliable enough to trust with real work. The pattern is clear: start with one annoying workflow, then connect the rest once it proves itself.
