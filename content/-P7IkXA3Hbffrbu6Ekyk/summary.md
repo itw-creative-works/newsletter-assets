@@ -1,0 +1,1 @@
+This holiday season, most brands are still leaning on acquisition, not just retention. The practical opportunity is to turn short-term seasonal traffic into measurable first purchases, then use QR-driven follow-up to bring those shoppers back after the rush.
