@@ -1,0 +1,1 @@
+The best automation rarely starts big. It starts with the repetitive little things that clog a workday, then grows into a system you can trust. This week we look at practical ways to automate approvals, reduce review drag, and make keyboard-driven tools feel less like setup work and more like everyday leverage.
