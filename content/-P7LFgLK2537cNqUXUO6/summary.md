@@ -1,0 +1,1 @@
+Teams are getting faster at generating code, but that does not automatically make shipping faster. The hard part is now coordination: breaking work into pieces, reviewing machine output, and keeping ownership clear when AI writes more of the first draft. The best teams will treat AI like a force multiplier for judgment, not a replacement for it.
