@@ -1,0 +1,1 @@
+LinkedIn is still where decision-makers spend time, but the platform is getting more competitive and more video-heavy. At the same time, brands are tightening social governance as AI, approvals, and account security become bigger operational issues. The practical move this week is to build a more repeatable LinkedIn workflow, not just post more often.
