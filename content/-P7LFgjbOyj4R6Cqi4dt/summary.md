@@ -1,0 +1,1 @@
+AI is getting good at generating answers fast, but the real win for students is using it to understand the work. This issue is about the balance between speed and craft: how to let AI handle the repetitive parts while you stay in control of the thinking, the practice, and the final result.
